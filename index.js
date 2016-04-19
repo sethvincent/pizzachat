@@ -7,7 +7,7 @@ var hyperlog = require('hyperlog')
 var sub = require('subleveldown')
 var hyperkv = require('hyperkv')
 var tmp = require('os-tmpdir')
-var level = require('level-party')
+var level = require('level')
 var uuid = require('uuid')
 
 var db = level(path.join(tmp(), 'pizzachat'))

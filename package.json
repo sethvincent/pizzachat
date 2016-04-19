@@ -1,6 +1,6 @@
 {
   "name": "pizzachat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "basic demonstration of a terminal-based p2p chat app",
   "main": "index.js",
   "bin": {
